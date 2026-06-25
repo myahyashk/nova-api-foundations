@@ -24,4 +24,4 @@ A modern API foundation project built as part of the DecodeLabs Internship Proje
 
 ## Author
 
-**Yahya Shaikh**
+**Muhammad Yahya**
